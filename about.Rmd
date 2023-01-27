@@ -1,0 +1,34 @@
+## Author
+
+ - **Name:** Sam Burch
+ - **Email (Main):** sburch323@gmail.com
+ - **Email (School):** sgburch2@illinois.edu
+ 
+
+## Purpose
+
+This app's purpose is to help study the impact of quarterback mistakes. A mistake is
+defines here as either an interception, a fumble, or a sack by the quarterback.
+(Sacks are included here because they have been proven to be a product of the quarterback
+more than the offensive line.) Specifically, the graph shows how many mistakes are being made
+and the EPA lost on such plays. The user can filter between the different types of mistakes,
+the win probability, and the expected points.
+
+
+## Data
+
+This data is from the 2022 NFL season and focuses on quarterback play only. This
+includes scrambles and designed runs from quarterbacks. (Note: Some players, like
+Baker Mayfield, will be treated as two. This is because of the player/team combination, and 
+will be corrected in a later update to the app.)
+
+
+## References
+
+- [nflfastR] (https://www.nflfastr.com/)
+
+
+
+
+
+
